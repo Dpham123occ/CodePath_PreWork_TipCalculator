@@ -36,6 +36,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I found it was really hard to folllow the steps of the tutorial as well as get aquainted to Xcode. 
+
 ## License
 
     Copyright [2021] [Duy Pham]
